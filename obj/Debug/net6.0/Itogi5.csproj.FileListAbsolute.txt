@@ -1,0 +1,5 @@
+C:\GB\Itogi5\obj\Debug\net6.0\Itogi5.csproj.AssemblyReference.cache
+C:\GB\Itogi5\obj\Debug\net6.0\Itogi5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Itogi5\obj\Debug\net6.0\Itogi5.AssemblyInfoInputs.cache
+C:\GB\Itogi5\obj\Debug\net6.0\Itogi5.AssemblyInfo.cs
+C:\GB\Itogi5\obj\Debug\net6.0\Itogi5.csproj.CoreCompileInputs.cache
